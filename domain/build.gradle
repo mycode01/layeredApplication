@@ -1,0 +1,7 @@
+bootJar { enabled = false }
+jar { enabled = true }
+
+dependencies {
+    implementation("org.imgscalr:imgscalr-lib:4.2")
+
+}

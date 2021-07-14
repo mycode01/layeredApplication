@@ -1,0 +1,5 @@
+rootProject.name = 'someLayeredApplication'
+include 'application'
+include 'adapter'
+include 'domain'
+include 'usecase'
